@@ -7,7 +7,6 @@ dependencies:
   - requests
   - PIL
   - io
-  - numpy
   - xarray
   - holoviews
   - geoviews
