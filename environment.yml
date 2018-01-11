@@ -5,7 +5,7 @@ dependencies:
   - python=2.*
   - numpy
   - requests
-  - PIL
+  - pillow
   - xarray
   - holoviews
   - datashader
