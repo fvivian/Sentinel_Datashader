@@ -1,9 +1,17 @@
 name: exenv
 channels:
   - conda-forge
+  - ioam
 dependencies:
-  - python=2.*
+  - python
   - numpy
+  - psutil
+  - toolz
+  - matplotlib
+  - dill
+  - pandas
+  - partd
+  - bokeh
   - requests
   - pillow
   - xarray
