@@ -1,0 +1,12 @@
+dependencies:
+  - numpy
+  - requests
+  - PIL
+  - io
+  - numpy
+  - xarray
+  - holoviews
+  - geoviews
+  - datashader
+  - cartopy
+  - pyproj
