@@ -1,3 +1,6 @@
+channels:
+  - nodefaults
+  - conda-forge
 dependencies:
   - numpy
   - requests
