@@ -6,10 +6,11 @@ dependencies:
   - numpy
   - requests
   - PIL
-  - io
   - xarray
   - holoviews
   - geoviews
   - datashader
   - cartopy
   - pyproj
+  - pip:
+    - io
