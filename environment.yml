@@ -11,5 +11,3 @@ dependencies:
   - datashader
   - cartopy
   - pyproj
-  - pip:
-    - geoviews
