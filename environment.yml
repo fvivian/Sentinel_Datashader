@@ -1,8 +1,8 @@
 name:
 channels:
-  - defaults
   - conda-forge
 dependencies:
+  - python=2.*
   - numpy
   - requests
   - PIL
