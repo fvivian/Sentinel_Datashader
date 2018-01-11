@@ -8,9 +8,9 @@ dependencies:
   - PIL
   - xarray
   - holoviews
-  - geoviews
   - datashader
   - cartopy
   - pyproj
   - pip:
     - io
+    - geoviews
