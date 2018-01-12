@@ -6,4 +6,4 @@ The notebook called SentinelWMS_Datashader utilises the datashading procedure pr
 
 ![alt text](https://github.com/fvivian/Sentinel_Datashader/blob/master/datashader_example.png)
 
-Sentinel2_Datashader does basically the same thing as the first notebook but with a Sentinel-2 MSI product stored locally.
+Sentinel2_Datashader does basically the same thing as the first notebook but with a Sentinel-2 MSI product stored locally on the users machine.
