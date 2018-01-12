@@ -16,6 +16,7 @@ dependencies:
   - pillow
   - xarray
   - holoviews
+  - geoviews
   - datashader
   - cartopy
   - pyproj
